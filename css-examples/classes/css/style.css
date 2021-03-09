@@ -1,0 +1,12 @@
+.highlight {
+  background-color: yellow;
+}
+
+.warning {
+  border: 1px solid red;
+}
+
+.highlight.warning {
+  font-size: 32px;
+  font-weight: 700;
+}
