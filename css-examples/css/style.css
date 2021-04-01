@@ -1,0 +1,21 @@
+h1 {
+  font-size: 24px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-right: 14px;
+  padding-left: 14px;
+}
+
+p {
+  border: 3px solid pink;
+}
+
+p {
+  padding: 12px;
+  color: red !important;
+}
+
+p {
+  text-shadow: 3px 3px 4px blue;
+  color: purple;
+}

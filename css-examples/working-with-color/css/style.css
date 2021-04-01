@@ -1,0 +1,20 @@
+body {
+  background-color: white;
+  background-color: #FFFFFF;
+  background-color: #FFFFFF99; /* 99 is opacity */
+  background-color: #FFF;
+  background-color: #FFF9;     /* 9 is opacity */
+  background-color: #ffffff;
+  background-color: #fff;
+  background-color: #fff9;     /* 9 is opacity */
+  background-color: #ffffff99; /* 99 is opacity */
+  background-color: #ffffff99; /* 99 is opacity */
+  background-color: rgb(255, 255, 255);
+  background-color: rgba(255, 255, 255, .12); /* Opacity at 12% */
+  background-color: rgb(100%, 100%, 100%);
+  background-color: rgba(100%, 100%, 100%, 12%);
+
+  /* Not white, like the colors above */
+  background-color: hsl(0, 100%, 50%); /* Red */
+  background-color: hsl(90, 100%, 50%); /* Yellow-green */
+}
